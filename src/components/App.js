@@ -1,13 +1,10 @@
-
-
 function App() {
   return (
     <div>
-      <header>
-        YEAH YEAH YEAH
-      </header>
+      YEAH YEAH YEAH
     </div>
   );
 }
-
-export default App;
+  
+  export default App;
+  
